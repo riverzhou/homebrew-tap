@@ -1,6 +1,6 @@
 cask "rustmd" do
-  version "1.11.1"
-  sha256 "2031a9d5a322504d6e183738bb20eab5b753d8929b7d0ee921a8006cef576c59"
+  version "1.12.1"
+  sha256 "718d9adeee46d184ece2fd63742db3e2d72c987df15fa44b3ce36227719b6482"
 
   # The current release ships an Apple Silicon (arm64) build only.
   url "https://github.com/riverzhou/rustmd/releases/download/v#{version}/rustmd-#{version}-macos-arm64.dmg",
